@@ -1,0 +1,57 @@
+# Rider
+.idea/
+*.sln.iml
+out/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Rider + ReSharper caches
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+packages/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+/.vs/
+/iisexpress/
+
+# Logs
+*.log
+logs/
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+
+# Rider plugin settings
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries/
+
+# OS files
+.DS_Store
+Thumbs.db
+
