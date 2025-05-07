@@ -1,0 +1,10 @@
+POST http://localhost:5090/api/warehouse/add
+Content-Type: application/json
+
+{
+  "productId": 1,
+  "warehouseId": 1,
+  "orderId": 1,
+  "amount": 10,
+  "createdAt": "2023-01-01T00:00:00"
+}
