@@ -18,6 +18,7 @@ public class Program
         if (app.Environment.IsDevelopment())
         {
             app.MapOpenApi();
+            ////hello
         }
 
         app.UseHttpsRedirection();
