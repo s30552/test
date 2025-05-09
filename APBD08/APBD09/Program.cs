@@ -13,7 +13,7 @@ public class Program
         builder.Services.AddScoped<IWarehouseService, WarehouseService>();
         builder.Services.AddControllers();
 
-        // Add services to the container.
+        // Add services to the container..
         builder.Services.AddAuthorization();
 
         // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
