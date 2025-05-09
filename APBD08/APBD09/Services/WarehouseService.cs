@@ -1,11 +1,11 @@
 using System;
 using System.Data;
 using System.Threading.Tasks;
-using APBD08.Models;
+using APBD09.Models;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 
-namespace APBD08.Services
+namespace APBD09.Services
 {
     public class WarehouseService : IWarehouseService
     {
